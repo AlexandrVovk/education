@@ -7,7 +7,7 @@
 <li>git cherry-pick</li>
 <li>git rebase </li>
 <li>git in scripting</li>
-<li>git branching strategies (gitflow)</li>
+<li>git branching strategies (gitflow): main, release, hotfix, develop, feature</li>
 </lo>
 
 
