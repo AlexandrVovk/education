@@ -5,7 +5,7 @@
 <li>git remote</li>
 <li>git branch, checkout, commit, pull, push [--force] [remote], merge, revert, reset (soft, hard), tags, stash</li>
 <li>git in scripting</li>
-<li>git branching strategies (gitflow)</li>
+<li>git branching strategies (gitflow): main, release, hotfix, develop, feature</li>
 </lo>
 
 
